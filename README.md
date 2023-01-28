@@ -85,6 +85,7 @@ You must know security topics in PHP such as Sanitization and [`XSS`](https://po
 #### Payment Gateway: Traversy Media
 
 Sometimes you need to provide a payment gateways to your site such as ([Hyper Pay](https://www.hyperpay.com/), [PayPal](https://developer.paypal.com/), [Stripe](https://stripe.com/), ...etc), so you can watch the next tutorial 💳
+[PHP, MySQL & Stripe API Payment App](https://www.youtube.com/playlist?list=PLillGF-Rfqbb8OFHzQhkEElaReewJlwca)
 
 ### Basics of API and RESTapi
 #### Understand Concept
